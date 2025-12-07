@@ -1,5 +1,5 @@
 # Win-Aura Monitor
-[![🇨🇳 中文](https://img.shields.io/badge/文档-中文版-blue.svg)](README_ZH.md)
+[![中文文档](https://img.shields.io/badge/🇨🇳-中文-blue.svg)](README_ZH.md)
 
 > **Make your system pulse.**
 >
