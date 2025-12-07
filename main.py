@@ -29,7 +29,7 @@ GLOW_LAYERS = 4
 SMOOTHING_FACTOR = 0.08
 # Animation Smoothing (Lower is smoother) / 动画平滑系数 (越小越平滑)
 
-RAM_SENSITIVITY_CAP = 12.0
+RAM_SENSITIVITY_CAP = 10.0
 # RAM Red Threshold (% of Total System Memory) / 内存满载阈值 (占系统总内存百分比，达到此值变红)
 
 BASE_BREATH_SPEED = 0.02
