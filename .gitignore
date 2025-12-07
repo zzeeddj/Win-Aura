@@ -1,0 +1,22 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# IDE settings (VS Code, JetBrains)
+.vscode/
+.idea/
+
+# Distribution / PyInstaller
+build/
+dist/
+*.spec
+
+# System files
+.DS_Store
+Thumbs.db
