@@ -1,7 +1,5 @@
 # Win-Aura Monitor
 
-[![中文文档](https://img.shields.io/badge/🇨🇳-中文-blue.svg)](README_ZH.md)
-
 > **Make your system pulse.**
 >
 > An immersive, minimalist, and non-intrusive system performance monitor for Windows. It visualizes resource usage directly on your active window's border.
